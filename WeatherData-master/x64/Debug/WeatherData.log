@@ -1,0 +1,29 @@
+﻿  Main.cpp
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(169,41): warning C4099: 'std::vector<WeatherData,std::allocator<_Ty>>': type name first seen using 'class' now seen using 'struct'
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(169,41): warning C4099:         with
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(169,41): warning C4099:         [
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(169,41): warning C4099:             _Ty=WeatherData
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(169,41): warning C4099:         ]
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message : see declaration of 'std::vector<WeatherData,std::allocator<_Ty>>'
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         with
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         [
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :             _Ty=WeatherData
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         ]
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(170,42): warning C4099: 'std::vector<WeatherData,std::allocator<_Ty>>': type name first seen using 'class' now seen using 'struct'
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(170,42): warning C4099:         with
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(170,42): warning C4099:         [
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(170,42): warning C4099:             _Ty=WeatherData
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(170,42): warning C4099:         ]
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message : see declaration of 'std::vector<WeatherData,std::allocator<_Ty>>'
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         with
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         [
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :             _Ty=WeatherData
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(28): message :         ]
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(214,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(216,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(222,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(224,80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(238,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\vmware-host\Shared Folders\Desktop\WeatherData-master\Main.cpp(238,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4076: invalid incremental status file '\\vmware-host\Shared Folders\Desktop\WeatherData-master\x64\Debug\WeatherData.ilk' (which will be deleted); linking nonincrementally
+  WeatherData.vcxproj -> \\vmware-host\Shared Folders\Desktop\WeatherData-master\x64\Debug\WeatherData.exe
